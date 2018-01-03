@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DominicCabral/google-storage-helper/issues"
   },
-  "homepage": "https://github.com/DominicCabral/google-storage-helper#readme"
+  "homepage": "https://github.com/DominicCabral/google-storage-helper#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^1.5.2"
+  }
 }
